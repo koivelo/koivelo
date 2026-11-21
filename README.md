@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+  Hi! I am Edwin Ravelo Jr. aka "koivelo", my pronouns are He/Him. I am a Computer Science student from San Diego State University projected to graduate on March 2028. I have an interest in videogames, astronomy, and tech. I am also quite the active individual: I played football in high school, grew up skating, and I like boulder. My strengths are that I am always active when it comes to learning something new, and when I give myself a task I make sure that I am satisfied with my progress before I leave. All in all, I strive to learn more everyday, to have a successful career, and to make an impact on society!
 <!--
 **koivelo/koivelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
